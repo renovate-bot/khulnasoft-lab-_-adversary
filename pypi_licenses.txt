@@ -1,8 +1,8 @@
 Generated with "pip-licenses --order=license"
 Tool available at: https://pypi.org/project/pip-licenses/
 
-Only a summary is given for PyPi/Pip packages as they are not being included or modified in the distribution of Decider.
-"requirements.txt" merely tells the user to download and use these packages in order to use Decider.
+Only a summary is given for PyPi/Pip packages as they are not being included or modified in the distribution of Adversary.
+"requirements.txt" merely tells the user to download and use these packages in order to use Adversary.
 
  Name                Version    License
  bcrypt              4.0.1      Apache Software License
