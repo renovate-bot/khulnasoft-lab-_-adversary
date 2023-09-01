@@ -1,0 +1,7 @@
+[Unit]
+Description = Adversary
+[Service]
+Type=simple
+ExecStart=/opt/adversary/1.0.0/venv/bin/uwsgi --ini /opt/adversary/1.0.0/uwsgi.ini
+[Install]
+WantedBy=multi-user.target
