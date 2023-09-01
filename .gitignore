@@ -1,0 +1,36 @@
+# Python Environment
+/venv/
+/env/
+.python-version
+
+# IDE Settings
+.vscode
+.idea
+
+# Python Cache et al
+__pycache__/
+*.py[cod]
+*$py.class
+UNKNOWN.egg-info/
+
+# OS Cache
+.DS_Store
+
+# App Logs
+*.log
+
+# Certificates
+*.key
+*.pem
+*.csr
+/app/utils/certs/
+
+# Secrets
+/.env
+/app/utils/jsons/source/user.json
+/app/utils/jsons/source/cart.json
+/init.sql
+/app/utils/db/dumps
+
+# Local working notes / tools
+/scratch/
