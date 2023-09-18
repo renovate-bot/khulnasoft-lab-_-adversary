@@ -11,7 +11,7 @@ idna==3.4
 mccabe==0.7.0
 mypy-extensions==1.0.0
 nodeenv==1.7.0
-packaging==23.0
+packaging==23.1
 pathspec==0.11.1
 pip-licenses==4.1.0
 platformdirs==3.10.0
