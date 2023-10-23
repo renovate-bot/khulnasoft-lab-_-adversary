@@ -1,5 +1,5 @@
 bcrypt==4.0.1
-beautifulsoup4==4.12.1
+beautifulsoup4==4.12.2
 bleach==6.0.0
 blinker==1.6.2
 boolean.py==4.0
