@@ -10,7 +10,7 @@ Flask==2.3.3
 Flask-Login==0.6.3
 Flask-Principal==0.4.0
 Flask-SQLAlchemy==3.0.3
-Flask-WTF==1.1.1
+Flask-WTF==1.2.1
 greenlet==2.0.2
 importlib-metadata==6.1.0
 itsdangerous==2.1.2
