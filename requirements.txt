@@ -5,7 +5,7 @@ blinker==1.7.0
 boolean.py==4.0
 cffi==1.16.0
 click==8.1.7
-cryptography==41.0.5
+cryptography==41.0.7
 Flask==2.3.3
 Flask-Login==0.6.3
 Flask-Principal==0.4.0
