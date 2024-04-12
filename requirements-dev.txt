@@ -7,7 +7,7 @@ dparse==0.6.3
 filelock==3.13.1
 flake8==6.1.0
 identify==2.5.32
-idna==3.4
+idna==3.7
 mccabe==0.7.0
 mypy-extensions==1.0.0
 nodeenv==1.8.0
