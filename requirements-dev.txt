@@ -19,7 +19,7 @@ pre-commit==3.4.0
 prettytable==3.6.0
 pycodestyle==2.10.0
 pyflakes==3.1.0
-PyYAML==6.0
+PyYAML==6.0.2
 requests==2.31.0
 ruamel.yaml==0.17.21
 ruamel.yaml.clib==0.2.8
