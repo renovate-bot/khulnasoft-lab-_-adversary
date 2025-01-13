@@ -27,5 +27,5 @@ safety==2.3.5
 toml==0.10.2
 tomli==2.0.1
 urllib3==2.2.0
-virtualenv==20.21.0
+virtualenv==20.26.6
 wcwidth==0.2.9
